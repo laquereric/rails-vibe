@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/laquereric/rails-presence.git
+  revision: 573c4d77475806a8cb26f7fd86ab3835cee872d7
+  specs:
+    rails-presence (0.1.0)
+      actioncable (>= 5.0.0)
+      rails (>= 4.2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -382,6 +390,7 @@ DEPENDENCIES
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.2)
+  rails-presence!
   rubocop-rails-omakase
   selenium-webdriver
   solid_cable

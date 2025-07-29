@@ -7,6 +7,9 @@
 # Ignore bundler config.
 /.bundle
 
+# Don't ignore anything in vendor folder.
+!/vendor/**
+
 # Ignore all environment files.
 /.env*
 
